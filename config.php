@@ -2,13 +2,13 @@
 
 /*----------------------------------------------------------GENERAL CONFIG-----------------------------------------------------------*/
 // The name of your server goes here.
-$servertitle = "MALLARD LOADSCREEN";
+$servertitle = "[Blue's Community]";
 
 // *REQUIRED* Replace below with your server IP, if you're hosting the loading screen alongside your gameserver on the same server instead of a web host, keep it as is! 
-$serverip = "127.0.0.1";
+$serverip = "185.44.76.4";
 
 // *REQUIRED* Set the port of your server here, this is typically 27015!
-$serverport = "27015";
+$serverport = "27025";
 
 // Whether or not to have the color stripes on each loading screen box.
 $stripes = true;
@@ -52,9 +52,7 @@ $descalign = "justify";
 
 // Text that you put here will be displayed in your description box (If your mode includes the box).
 // <br /> = New line || <b>Text</b> = Bold || <i>Text</i> = Italics || \" = To use speech marks, put a backslash infront of them
-$description = "Mallard Loadscreen is a very customizable and semi-modular loading screen with an easy configuration. I aimed to offer 
-				the sleek sexiness of other great loading screens, all while keeping things easy on users who aren't as well knowledgeable 
-				in web development and design.";
+$description = "Blue's Community is a Starwars themed DarkRP made to add more roleplay and immersion into the original DarkRP gamemode with added extra factions / wars";
 
 
 /*-------------------------------------------------------------RULES BOX-------------------------------------------------------------*/
@@ -63,14 +61,14 @@ $rulesheading = "Core Rules";
 
 // Rules - The maximum is 8 but less may be shown depending on your mode.
 // <br /> = New line || <b>Text</b> = Bold || <i>Text</i> = Italics || \" = To use speech marks, put a backslash infront of them
-$rule1 = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc dapibus lacinia hendrerit.";
-$rule2 = "Maecenas cursus sapien nisi, at egestas metus auctor nec. Donec sagittis eleifend magna vel sagittis.";
-$rule3 = "Maecenas tempus diam at augue ullamcorper, et aliquam odio ultricies. Donec nec malesuada eros.";
-$rule4 = "Nulla massa tellus, sollicitudin vel facilisis id, sodales id leo. Cras lectus sem, efficitur sollicitudin vehicula dictum, maximus ac elit.";
-$rule5 = "Mauris maximus, sem id laoreet porta, lorem libero vulputate lectus, non volutpat orci tellus id felis.";
-$rule6 = "Maecenas mauris leo, posuere at libero nec, vestibulum tempus augue. Donec nec malesuada eros. ";
-$rule7 = "Etiam quis nulla aliquet, rhoncus leo vel, placerat turpis. Proin id nunc quis lacus sodales imperdiet. Praesent volutpat id eleifend.";
-$rule8 = "Proin sagittis at sem at vestibulum. Suspendisse potenti. In placerat ligula lacinia aliquet eleifend.";
+$rule1 = "The use of Cheats, Hacks or Glitch exploitation is strictly prohibited";
+$rule2 = "Do not RDM";
+$rule3 = "Do not FailRP. All situations should be handled in character";
+$rule4 = "Racism, Discriminatory  language used will result in a permanent ban";
+$rule5 = "Do not Metagame. Metagaming is the use of any form of information generated out of character";
+$rule6 = "Do not randomly fire a weapon. You need an RP reason to fire it";
+$rule7 = "Do not mic spam or play any type of mic spam down your mic";
+$rule8 = "Do not advertise other servers";
 
 
 /*--------------------------------------------------------------USER BOX-------------------------------------------------------------*/
